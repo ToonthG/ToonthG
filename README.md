@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToonthG
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: DC: Toonth
 
